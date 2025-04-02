@@ -12,8 +12,8 @@ namespace MyAddition
         /// Initializes a new instance of the MyFingerJoint class.
         /// </summary>
         public MyFingerJoint()
-          : base("MyFingerJoint", "Finger",
-              "GeneratesFingerJoints",
+          : base("MyFingers", "Finger",
+              "i want to make a plugin GeneratesFingerJoints",
               "MyPlugin", "Joinery")
         {
         }
