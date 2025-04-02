@@ -17,9 +17,9 @@ namespace MyAddition
     /// new tabs/panels will automatically be created.
     /// </summary>
     public MyAdditionComponent()
-      : base("Addition", 
+      : base("AdditionBase", 
             "Add",
-        "Calculates the Sum of 2 numbers",
+        "Calculates the Sum of two numbers",
         "MyPlugin", 
         "Utility")
     {
